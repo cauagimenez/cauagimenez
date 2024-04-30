@@ -2,31 +2,6 @@
 
 ###
 
-<p align="left">Meu nome é Cauã e eu sou um iniciante que está dando seus primeiros passos na programação.</p>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Na missão de desenvolver um jogo<br>📚 Estudando GML</p>
-
-###
-
-<h2 align="left">Eu utilizo</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
 ![Caua's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauagimenez&show_icons-true&theme=shadow_red)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauagimenez&show_icons-true&theme=shadow_red)](https://github.com/cauagimenez/github-readme-stats)
 ###
@@ -45,8 +20,3 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/cauagimenez/cauagimenez/output/snake.svg" alt="Snake animation" />
-
-###
